@@ -41,7 +41,7 @@ export const products: Product[] = [
       "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
-    
+
   {
     id: 21,
     name: "Faith Yarn T-Shirt",
