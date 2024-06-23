@@ -18,14 +18,14 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "705 Brave",
-    slug: "t-705-shirt-brave",
+    name: "Cafe del huila",
+    slug: "cafe-tradicional",
     price: 129,
     description:
-      "Stay Brave with the 705 Shirt from Ryan Hoffman Collection. Show your bravery and drinks some beer with.",
-    cover: "/products/ryan-hoffman-A7f7XRKgUWc-unsplash.webp",
+      "Este es el cafe producido en donde doña Berliza, el mejor cafe fe la Argentina huila.",
+    cover: "https://cafelab.pe/wp-content/uploads/2024/05/Namuk-coffee-cafe-arabe-1024x684.jpg",
     coverCredits:
-      "https://unsplash.com/photos/A7f7XRKgUWc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+      "https://cafelab.pe/wp-content/uploads/2024/05/Namuk-coffee-cafe-arabe-1024x684.jpg",
     category: ProductCategory.Shirts,
   },
   {
