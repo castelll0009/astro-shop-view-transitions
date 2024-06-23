@@ -30,36 +30,36 @@ export const products: Product[] = [
   },
   {
     id: 18,
-    name: "Haryo Setyadi Shirt",
-    slug: "haryo-setyadi-shirt",
-    price: 199,
+    name: "Café Quindío ",
+    slug: "cafe-quindio",
+    price: 16000,
     description:
       "Siente la comodidad y la paz de la camiseta Haryo Setyadi blanca como la nieve. No te preocupes por las manchas, es fácil de limpiar.",
-    cover: "/products/haryo-setyadi-acn5ERAeSb4-unsplash.webp",
+    cover: "https://elbaristacoffeeshop.com/wp-content/uploads/2018/10/cafequindio5-600x600.jpg",
     coverCredits:
       "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
   {
     id: 21,
-    name: "Faith Yarn T-Shirt",
-    slug: "faith-yarn-shirt",
-    price: 59,
+    name: "Café Pergamino",
+    slug: "link-3",
+    price: 20000,
     description:
       "Eleva tu estilo y comodidad con los zapatos Faith Yarn. Diseñados para mantenerte fresco y seco todo el día.",
-    cover: "/products/faith-yarn-Wr0TpKqf26s-unsplash.webp",
+    cover: "https://elbaristacoffeeshop.com/wp-content/uploads/2020/09/Bolsa-Pergamino-Web-Ibague-Tolima-500-gr-1.jpg",
     coverCredits:
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
   {
     id: 49,
-    name: "T-Shirt 705",
-    slug: "t-shirt-32",
-    price: 99,
+    name: "Café Mesa de los Santos ",
+    slug: "link-4",
+    price: 18000,
     description:
       "Mantente fresco y seco con la camiseta 705 de la colección de Ryan Hoffman. Relájate, corre, sueña.",
-    cover: "/products/ryan-hoffman-6Nub980bI3I-unsplash.webp",
+    cover: "https://elbaristacoffeeshop.com/wp-content/uploads/2020/09/cafe-bourbon-mesa-de-los-santos-340-gr.jpg",
     coverCredits:
       "https://unsplash.com/photos/6Nub980bI3I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,

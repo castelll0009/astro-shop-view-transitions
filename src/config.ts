@@ -2,11 +2,11 @@
  * Configs for codrops
  */
 
-export const tutorialText = "Read the tutorial";
-export const tutorialHref = "https://tympanus.net/codrops/?p=73418";
+export const tutorialText = "Webcads";
+export const tutorialHref = "https://webcads.com/";
 
-export const previousText = "All demos";
-export const previousHref = "http://tympanus.net/codrops/demos/";
+export const previousText = "Canal Youtube";
+export const previousHref = "https://www.youtube.com/@webcads";
 
-export const githubText   = "GitHub"
-export const githubHref   = "https://github.com/codrops/astro-shop-view-transitions"
+export const githubText   = "Contacto"
+export const githubHref   = "#"
