@@ -14,7 +14,6 @@ export interface Product {
   coverCredits: string;
   category: ProductCategory;
 }
-
 export const products: Product[] = [
   {
     id: 32,
@@ -28,7 +27,6 @@ export const products: Product[] = [
       "https://cafelab.pe/wp-content/uploads/2024/05/Namuk-coffee-cafe-arabe-1024x684.jpg",
     category: ProductCategory.Shirts,
   },
-
   {
     id: 18,
     name: "Haryo Setyadi",
@@ -41,7 +39,6 @@ export const products: Product[] = [
       "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
-
   {
     id: 21,
     name: "Faith Yarn T-Shirt",
@@ -54,7 +51,6 @@ export const products: Product[] = [
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
-
   {
     id: 49,
     name: "T-Shirt 705",
