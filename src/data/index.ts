@@ -17,12 +17,12 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 32,
-    name: "Cafe del huila",
-    slug: "cafe-tradicional",
-    price: 129,
+    name: "Cafe del monte organico",
+    slug: "cafe-del-monte-organico",
+    price: 15000,
     description:
       "Este es el cafe producido en donde doña Berliza, el mejor cafe fe la Argentina huila.",
-    cover: "https://cafelab.pe/wp-content/uploads/2024/05/Namuk-coffee-cafe-arabe-1024x684.jpg",
+    cover: "https://i.ibb.co/TtrhsLS/Whats-App-Image-2024-06-23-at-03-34-25-1.jpg",
     coverCredits:
       "https://cafelab.pe/wp-content/uploads/2024/05/Namuk-coffee-cafe-arabe-1024x684.jpg",
     category: ProductCategory.Shirts,
@@ -39,6 +39,7 @@ export const products: Product[] = [
       "https://unsplash.com/photos/acn5ERAeSb4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
+  
   {
     id: 21,
     name: "Faith Yarn T-Shirt",
@@ -51,6 +52,7 @@ export const products: Product[] = [
       "https://unsplash.com/photos/Wr0TpKqf26s?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     category: ProductCategory.Shirts,
   },
+
   {
     id: 49,
     name: "T-Shirt 705",
