@@ -34,7 +34,7 @@ const imageUrl = import.meta.env.PUBLIC_URL
     <meta name="twitter:image" content={imageUrl} />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{title} - Astro Transitions Shop</title>
@@ -43,8 +43,8 @@ const imageUrl = import.meta.env.PUBLIC_URL
   <body class="bg-gradient-to-tl via-transparent from-gray-500/5">
     <main
       class="relative max-w-6xl min-h-screen mx-auto py-6 lg:pt-10 px-4 pb-20"
-    >
-      <slot />
+    >    
+      <slot/>
     </main>
 
     <style is:global>
